@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-card<d3_f61b5158>",
+            "request": "launch",
+            "mainClass": "card",
+            "projectName": "d3_f61b5158"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-month<d3_f61b5158>",
+            "request": "launch",
+            "mainClass": "month",
+            "projectName": "d3_f61b5158"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-triangle<d3_f61b5158>",
+            "request": "launch",
+            "mainClass": "triangle",
+            "projectName": "d3_f61b5158"
+        }
+    ]
+}
